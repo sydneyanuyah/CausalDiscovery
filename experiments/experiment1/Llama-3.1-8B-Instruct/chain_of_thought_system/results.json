@@ -1,0 +1,24 @@
+{
+  "accuracy": 0.15924202127659576,
+  "precision": 0.7368421052631579,
+  "recall": 0.12048192771084337,
+  "f1": 0.20710059171597633,
+  "confusion_matrix": [
+    [
+      409,
+      25
+    ],
+    [
+      511,
+      70
+    ]
+  ],
+  "total_samples": 3008,
+  "valid_predictions": 1015,
+  "missing_or_invalid_predictions": 1993,
+  "avg_inference": 1.6967381921378857,
+  "min_inference": 1.50271749868989,
+  "max_inference": 1.9291250109672546,
+  "num_samples": 3008,
+  "total_runtime": 5103.78848195076
+}
