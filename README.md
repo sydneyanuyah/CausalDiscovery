@@ -6,7 +6,10 @@ Repository for the paper:
 
 *Benchmarking LLMs for Pairwise Causal Discovery in Biomedical and Multi-Domain Contexts.*
 
-arXiv: [2601.15479v1](https://arxiv.org/abs/2601.15479)
+Published in the **2025 IEEE International Conference on Big Data (BigData)**, pages 7953-7962.
+
+- IEEE Xplore: [Document 11401449](https://ieeexplore.ieee.org/document/11401449)
+- arXiv: [2601.15479v1](https://arxiv.org/abs/2601.15479)
 
 The study evaluates 13 open-source large language models on pairwise causal discovery from text. It contains two tasks:
 
@@ -108,6 +111,19 @@ python exp2.py \
 ```
 
 The scripts use seed `4000`. The Experiment 1 script uses 4-bit model loading. The Experiment 2 script exposes defaults of batch size `64`, top-k `40`, temperature `0.7`, and maximum new-token count `256`.
+
+## Citation
+
+```bibtex
+@inproceedings{anuyah2025benchmarking,
+  title={Benchmarking LLMs for Pairwise Causal Discovery in Biomedical and Multi-Domain Contexts},
+  author={Anuyah, Sydney and Shajee-Mohan, Sneha and Chauhan, Ankit-Singh and Chakraborty, Sunandan},
+  booktitle={2025 IEEE International Conference on Big Data (BigData)},
+  pages={7953--7962},
+  year={2025},
+  organization={IEEE}
+}
+```
 
 ## Contact
 
